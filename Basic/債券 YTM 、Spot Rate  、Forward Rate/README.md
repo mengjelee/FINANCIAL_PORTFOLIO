@@ -1,11 +1,11 @@
-### HW2-計算債券的 YTM、Spot Rate、Forward Rate 及Forward Rate 對照表
+### 計算債券的 YTM、Spot Rate、Forward Rate 及Forward Rate 對照表
 | [設計過程2][] || [流程圖2][] || [程式碼2][] |
 
   [設計過程2]:  https://github.com/mengjelee/Financial_Engineering/blob/master/hw2/hw2%E8%A8%AD%E8%A8%88%E6%96%87%E4%BB%B6.pdf  "設計過程2"
   [流程圖2]:  https://github.com/mengjelee/Financial_Engineering/blob/master/hw2/HW2%E6%B5%81%E7%A8%8B%E5%9C%96.pdf  "流程圖2"
   [程式碼2]:  https://github.com/mengjelee/Financial_Engineering/blob/master/hw2/hw2.ipynb    "程式碼2"
   
-#### HW2學習歷程
+#### 學習歷程
 本次作業我使用python運算各期攤還之本金、利息及累計，並使用matplotlib製作表格輸出。
 
 ###### 一、	計算ytm: 
