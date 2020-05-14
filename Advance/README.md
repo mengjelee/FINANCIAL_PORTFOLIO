@@ -9,7 +9,7 @@
 *******
 ### Pyrhon portfolio
 1. | [Calculate Option Price with BS Model / Monte Carlo / Binomial Tree][] |
-2. | [Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)][] |
+2. | [Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)][] |
 
   [Calculate Option Price with BS Model / Monte Carlo / Binomial Tree]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/blob/master/Advance/Calculate%20Price%20of%20European%20and%20American%20Option/Calculate%20Price%20of%20European%20and%20American%20Option.ipynb  "Calculate Option Price with BS Model / Monte Carlo / Binomial Tree"
-  [Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/monte%20carlo%20and%20martingale%20pricing%20method  "Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)"
+  [Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/monte%20carlo%20and%20martingale%20pricing%20method  "Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Price)"
