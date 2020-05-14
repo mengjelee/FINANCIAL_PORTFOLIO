@@ -1,4 +1,4 @@
-### Calculate Price of European Put and Call Option
+### Calculate Option Price with BS Model
 | [設計過程4][] || [流程圖4][] || [程式碼4][] |
 
   [設計過程4]:  https://github.com/mengjelee/Financial_Engineering/blob/master/hw4/HW4%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.pdf  "設計過程4"
