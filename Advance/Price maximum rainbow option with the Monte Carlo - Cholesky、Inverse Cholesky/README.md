@@ -1,7 +1,7 @@
 # FINANCIAL_PORTFOLIO
 # Price maximum rainbow option with the Monte Carlo - Cholesky、Inverse Cholesky
 
-1. | [運算流程]][] |
+1. | [運算流程][] |
 2. | [程式碼][] |
 
   [運算流程]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/blob/master/Advance/Price%20maximum%20rainbow%20option%20with%20the%20Monte%20Carlo%20-%20Cholesky%E3%80%81Inverse%20Cholesky/Price%20maximum%20rainbow%20option%20with%20the%20Monte%20Carlo%20-%20Cholesky%E3%80%81Inverse%20Cholesky.pdf  "運算流程"
