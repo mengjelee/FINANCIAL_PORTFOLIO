@@ -11,15 +11,15 @@
 ### 1.	Cholesky
 ### 2.	Combine the antithetic variate approach and moment matching
 ### 3.	Inverse Cholesky
-
-## 3. Implement the inverse Cholesky method
+============
+## Implement the inverse Cholesky method
 ### Input : 
 #### 1.	K, r, T, number of simulations, number of repetitions, n
 #### 2.	list of current prices, sigma
 #### 3.	matrix of correlation coefficient with list format (n*n)
 
 ### data process :
-#### 1.	Create new random samples(mean = 0, std = 1) with sigma and correlation coefficient of random samples
+#### 1.	Create new random samples(mean = 0, std = 1) with antithetic variate approach and moment matching
 #### 2.	Calculate variance-covariance matrix(c2) of new random samples
 #### 3.	Transform Covariance array into array c2 with Cholesky Decomposition
 
