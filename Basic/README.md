@@ -3,7 +3,7 @@
 ### PwC Salesforce administrator、Student in NTU International Business
 ##### Interested in finance and technolgy, looking forward to be a Fintecher.
 ##### SKILL :
-###### 1. Finance (證券商高級業務員證照)
+###### 1. Finance (證券商高級業務員、投信投顧業務員證照)
 ###### 2. Salesforce CRM (salesforce certified administrator)
 ###### 3. Python
 *******
