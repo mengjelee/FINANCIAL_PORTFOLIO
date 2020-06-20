@@ -15,6 +15,8 @@
 3.  [Calculate Option Price with Changing Interest Rate (Hull-White Process)][] 
 4.  [Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Prices)][] 
 5.  [Calculate Option Price with BS Model / Monte Carlo / Binomial Tree (with One Column Vector / Combinatorics Method)][] 
+6.  [Price an arithmetic average call using the binomial tree model][] 
+7.  [Calculate the implied volatility][] 
 
   [Price American Lookback Put with the Binomial Tree and Monte Carlo]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/Price%20American%20Lookback%20Put%20with%20the%20Binomial%20Tree%20and%20Monte%20Carlo  "Price American Lookback Put with the Binomial Tree and Monte Carlo"
   
@@ -23,3 +25,5 @@
   [Calculate Option Price with BS Model / Monte Carlo / Binomial Tree (with One Column Vector / Combinatorics Method)]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/blob/master/Advance/Calculate%20Price%20of%20European%20and%20American%20Option/Calculate%20Price%20of%20European%20and%20American%20Option.ipynb  "Calculate Option Price with BS Model / Monte Carlo / Binomial Tree (with One Column Vector / Combinatorics Method)"
   [Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Prices)]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/monte%20carlo%20and%20martingale%20pricing%20method  "Calculate Option Price with Monte Carlo and Martingale Pricing Method (Option with Four Strike Prices)"
   [Calculate Option Price with Changing Interest Rate (Hull-White Process)]: https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Basic/Calculate%20Option%20Price%20with%20Changing%20Interest%20Rate  "Calculate Option Price with Changing Interest Rate (Hull-White Process)"
+  [Price an arithmetic average call using the binomial tree model]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/Price%20an%20arithmetic%20average%20call  "Price an arithmetic average call using the binomial tree model"
+  [Calculate the implied volatility]: https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Advance/Calculate%20the%20implied%20volatility  "Calculate the implied volatility"
