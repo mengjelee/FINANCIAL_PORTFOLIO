@@ -7,7 +7,7 @@
 ###### 2. Salesforce CRM (salesforce certified administrator)
 ###### 3. Python
 *******
-### Pyrhon portfolio
+### Python portfolio
 | [Basic][] || [Advance][] |
 
   [Basic]:  https://github.com/mengjelee/FINANCIAL_PORTFOLIO/tree/master/Basic  "Basic"

@@ -7,7 +7,7 @@
 ###### 2. Salesforce CRM (salesforce certified administrator)
 ###### 3. Python
 *******
-### Pyrhon portfolio
+### Python portfolio
 
 ### Advance
 1.  [Price American Lookback Put with the Binomial Tree and Monte Carlo][] 

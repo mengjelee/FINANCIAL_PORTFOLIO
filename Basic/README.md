@@ -7,7 +7,7 @@
 ###### 2. Salesforce CRM (salesforce certified administrator)
 ###### 3. Python
 *******
-### Pyrhon portfolio
+### Python portfolio
 
 1.  [Calculaye Interest of Constant Amortization Mortgage loan][] 
 2.  [Calculate YTM \ Spot Rate \ Forward Rate \ Forward Rate of Bond][] 
