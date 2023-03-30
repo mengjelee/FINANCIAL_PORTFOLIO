@@ -1,11 +1,11 @@
 # FINANCIAL ENGINEERING PORTFOLIO
 ### MENG-JE LEE (WILL)
-### PwC Salesforce administrator、Student in NTU International Business
-##### Interested in finance and technolgy, looking forward to be a Fintecher.
+### Commercial Officer at Siemens, NTU IB
+##### Interested in finance and technolgy.
 ##### SKILL :
-###### 1. Finance (證券商高級業務員、投信投顧業務員證照)
+###### 1. Finance (初階授信人員、證券商高級業務員、投信投顧業務員證照)
 ###### 2. Salesforce CRM (salesforce certified administrator)
-###### 3. Python
+###### 3. Python、SQL、VBA
 *******
 ### Python portfolio
 | [Basic][] || [Advance][] |
